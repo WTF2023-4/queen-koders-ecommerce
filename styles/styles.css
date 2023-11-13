@@ -104,5 +104,7 @@ footer > h6 {
 }
 
 .product_container > img {
-    width: fit-content;
+    width: 324px;
+    height: 324px;
+    object-fit: cover;
 }
